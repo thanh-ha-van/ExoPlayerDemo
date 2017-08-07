@@ -56,13 +56,22 @@ public class VideoPlayerActivity extends Activity {
         player = ExoPlayerFactory.newSimpleInstance(this, trackSelector);
         simpleExoPlayerView.setPlayer(player);
         player.setPlayWhenReady(shouldAutoPlay);
-        MediaSource mediaSource = new HlsMediaSource(Uri.parse("https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"),
-                mediaDataSourceFactory, null, null);
-//
-//        DefaultExtractorsFactory extractorsFactory = new DefaultExtractorsFactory();
-//        MediaSource mediaSource = new ExtractorMediaSource(Uri.parse("http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"),
-//                mediaDataSourceFactory, extractorsFactory, null, null);
-        player.prepare(mediaSource);
+        if (    Global.typeToPlay == 2) {
+            MediaSource mediaSource = new HlsMediaSource(Uri.parse("https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"),
+                    mediaDataSourceFactory, null, null);
+
+            player.prepare(mediaSource);
+        }
+        else
+        {
+
+        DefaultExtractorsFactory extractorsFactory = new DefaultExtractorsFactory();
+        MediaSource mediaSource = new ExtractorMediaSource(Uri.parse("http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"),
+                mediaDataSourceFactory, extractorsFactory, null, null);
+
+            player.prepare(mediaSource);
+        }
+
     }
 
     private void releasePlayer() {

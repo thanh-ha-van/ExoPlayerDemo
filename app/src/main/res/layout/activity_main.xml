@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_radio_player"
     android:layout_width="match_parent"
@@ -7,6 +7,7 @@
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
+    android:orientation="vertical"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.yusufcakmak.exoplayersample.MainActivity">
 
@@ -16,7 +17,14 @@
         android:layout_height="100dp"
         android:textAlignment="center"
         android:textAllCaps="true"
-        android:id="@+id/customVideoButton"
-        android:text="Video Player"/>
+        android:id="@+id/customVideoButton1"
+        android:text="Video MP4 Player"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:id="@+id/customVideoButton2"
+        android:text="Video HLS player"/>
 
-</RelativeLayout>
+</LinearLayout>

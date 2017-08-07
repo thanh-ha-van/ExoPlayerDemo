@@ -3,84 +3,93 @@
 
     <item
         is-multidex="false"
-        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.4.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_ae9b7d4ea0f267d15b05a9e3695c2f3f522852a6.jar" />
+        sha1="3ecb9d2aad9a03dd8d0914b715cc1fc11d942c6c">
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-r2.4.2_54a37054ffdcfb5d3f9a6992700bfc22cbd7279f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_5c7c956faf927b46fc73c44f720f7b670cb44ead.jar" />
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_e3def02b7c11d60c7d800b419038247c41a2c9ff.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-hls/r2.4.2/jars/classes.jar"
+        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="0de7e0ae21de6fa1a7c29312a61488379d5ff370">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-hls-r2.4.2_88f4bc67ae4a44a12c154c303e401d2510874441.jar" />
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_26ceb367296c11d0f7e6ff56d41671053fd6ef23.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-dash/r2.4.2/jars/classes.jar"
+        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-core/r2.4.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="20fa9888472a66e49eca47436f5706225947ee42">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-dash-r2.4.2_c20a3b9213a37960fe5f923a0b0fda67f963e657.jar" />
+        sha1="a952c11383ba123aa6d78b28a2fcccf8d357f503">
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-core-r2.4.2_de9ea5d860c13a0267b78acc5f58e8372fdd69ce.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_db6648e5fe08a748a83cfd67f36a8257215df014.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-smoothstreaming/r2.4.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="026b8b454ba5a0265954502f91d26d58da1bd47d">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-smoothstreaming-r2.4.2_6057de06c5dd27158b7e4196c31060c0d563903f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_a99eff727ab1d15f683ca6d52c21470fb75c1529.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b547d585e97fe30c6430c78d4f51544060efa5ff.jar" />
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_797d3c2709f6e5dbe81640ed8ca28e39a696d217.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_0f12a9855e07f947ca6338fde2a4c1e09f945bbe.jar" />
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_14c869bf3a3a8bffb6ce75c9568686e2649da997.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_d888a012fd87b7b7a9e5e354e3e7c7eebfd0a92c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_64bc7ff00ed1cef093a6c1ba4f50defc8b4bd045.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_1f924fec57b1aa33ba62d561e4e0237cd7f52707.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-hls/r2.4.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0de7e0ae21de6fa1a7c29312a61488379d5ff370">
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-hls-r2.4.2_5fafaaa144120c439b03e9c1d7ca75dae3ca7c6b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -89,88 +98,79 @@
         optimize="true"
         revision="25.0.0"
         sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_b2fc625579286da5502a1f4674004136e3a8a9c2.jar" />
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_b2fc625579286da5502a1f4674004136e3a8a9c2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_a16c47036832c74035186d351b32daeff117a7e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_cfab4d4f729449fd0a54190e6135e945aee18691.jar" />
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_de7524925b9d62d9ed912d253e33640f32eca11a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-core/r2.4.2/jars/classes.jar"
+        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="a952c11383ba123aa6d78b28a2fcccf8d357f503">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-core-r2.4.2_8fa318e8ec7e684c1b4b0e0f2f45be3c453b4300.jar" />
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_1977cf473b83a4b4fd4f1e99bf24d4596d553e6d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_1e2402be97645997d25181e8ba43d2792ac11265.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_857bba3dc36c2604986321f75a68b3029565faa9.jar" />
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_a9d1b9c4136a66c8e0bcc8b28b8f3f9bc97e30fd.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.4.2/jars/classes.jar"
+        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-smoothstreaming/r2.4.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="3ecb9d2aad9a03dd8d0914b715cc1fc11d942c6c">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-r2.4.2_e5f3081341b75f2b4e42c004751bad732ab4d15b.jar" />
+        sha1="026b8b454ba5a0265954502f91d26d58da1bd47d">
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-smoothstreaming-r2.4.2_2853cee1786a9a9a6fcdd736ca094b7d627f0fe9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/r2.4.2/jars/classes.jar"
+        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-dash/r2.4.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20fa9888472a66e49eca47436f5706225947ee42">
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-dash-r2.4.2_104d13c1b3aa0bebad762d0b444428fd4bdfb534.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_26d210b16c1253bc98f821e381a19b566648ccbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/r2.4.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="c734c0b8f7a879b23e6675201b7aac88b0ae5282">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-ui-r2.4.2_2b44fe496f929cadda8d258010b8fd03e90f688c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_7516dc32c44d9687158bab3fd07d14ac0fdb5b3f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_5fbd6c50df0218e0e820520fc0a4b91299e65284.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_d463db729c286507cf9198504ecc1a3301c9a118.jar" />
+        <dex dex="/home/local/INI/thanh.ha/Desktop/OTT/ExoPlayerSample-master/ExoPlayerDemo/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-ui-r2.4.2_fff7e3fa861c0ae8f5a962f5bac4ada013f40ae2.jar" />
     </item>
 
 </items>
